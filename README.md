@@ -7,8 +7,8 @@ Hi !!<br>I'm Pranav <br>A passionate programmer.<br><br>Currently Learning Pytho
 
 
 
-###                          Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+“ Code is like humor. When you have to explain it, it’s bad.” 
+                                                               – Cory House
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pranav743&icon=2&color=12)](https://visitcount.itsvg.in)
